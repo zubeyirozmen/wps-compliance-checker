@@ -197,5 +197,5 @@ MIT License — see [LICENSE](LICENSE) file.
 This project does not reproduce protected standard text. All references to international standards are nominal and educational. The source code is released under MIT for educational and portfolio purposes.
 
 ---
-
+Source code and live demo available on request — happy to walk through the architecture and demonstrate the validation workflow in an interview.
 *Built with Python, Streamlit, ReportLab, and Anthropic Claude. 2026.*
